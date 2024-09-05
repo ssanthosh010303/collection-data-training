@@ -10,3 +10,6 @@
 [submodule "migrations/day1/codecommit-to-github-migration"]
 	path = migrations/day1/codecommit-to-github-migration
 	url = https://github.com/ssanthosh010303/codecommit-to-github-migration
+[submodule "day1"]
+	path = day1
+	url = https://github.com/ssanthosh010303/data1
